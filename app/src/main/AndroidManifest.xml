@@ -32,7 +32,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".ui.activity.RealLastActivity"
+            android:name=".ui.activity.LastActivity"
             android:label="@string/title_activity_real_last" >
         </activity>
     </application>
